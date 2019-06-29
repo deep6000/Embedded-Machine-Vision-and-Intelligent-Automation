@@ -112,7 +112,7 @@ int main()
 	
 	//Set Output Video Parameters
     VideoWriter video;
-    video.open("Output.mp4",CV_FOURCC('M','P','4','V') , (cap.get(CV_CAP_PROP_FPS)), framesize, true);
+    video.open("Output.mp4",CV_FOURCC('M','P','4','V') , (cap.get(CV_CAP_PROP_FPS)/2), framesize, true);
 	
     if(!video.isOpened())
 	{
