@@ -41,7 +41,7 @@ int main()
 	
 	//Set Output Video Parameters
     VideoWriter video;
-    video.open("Output.mp4",CV_FOURCC('M','P','4','2') , (cap.get(CV_CAP_PROP_FPS))/2, framesize, true);
+    video.open("Output.mp4",CV_FOURCC('M','P','4','V') , (cap.get(CV_CAP_PROP_FPS)), framesize, true);
 	
     if(!video.isOpened())
 	{
@@ -55,20 +55,22 @@ int main()
         cout << "Error opening video stream or file" << endl;
         return -1;
     }
+	cap >> previous;
     while(1)
     {
-        cap >> previous;
-        
-        if(previous.empty())
-            break;
-        
         split(previous,bgr_prev);
         cap >> current;
+
+        if(current.empty())
+            break;
+        
         split(current,bgr_curr);
         
         absdiff(bgr_prev[0],bgr_curr[0],bgr_diff[0]);
         absdiff(bgr_prev[1],bgr_curr[1],bgr_diff[1]);
         absdiff(bgr_prev[2],bgr_curr[2],bgr_diff[2]);
+	
+	previous = current;
 
         merge(bgr_diff,3,final);
      

@@ -112,7 +112,7 @@ int main()
 	
 	//Set Output Video Parameters
     VideoWriter video;
-    video.open("Output.avi", cap.get(CV_CAP_PROP_FOURCC), (cap.get(CV_CAP_PROP_FPS)/2), framesize, true);
+    video.open("Output.mp4",CV_FOURCC('M','P','4','V') , (cap.get(CV_CAP_PROP_FPS)), framesize, true);
 	
     if(!video.isOpened())
 	{
@@ -127,18 +127,20 @@ int main()
         return -1;
     }
     framecount = 0;
+  
     while(1)
     {        
      //storing th captured frame
-        
-        cap >> previous;
-	
-        if(previous.empty())
+  	cap >> previous;
+if(previous.empty())
             break;
- 	
         cap >> current;
+
+        
+ 	
         frame = previous - current;
 
+	
 
        
         spot.xleft = frame.cols;
