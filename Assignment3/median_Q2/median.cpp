@@ -95,6 +95,7 @@ int main()
         } 
 
     }
+	imwrite("Median.png",frame);
 
 }
 
