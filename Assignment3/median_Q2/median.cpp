@@ -56,7 +56,6 @@ int main()
 
     split(src_image,bgr);//split source  
 
-
     // OpenCV uses BGR color order
     imwrite("green.png",bgr[1]); //green channel
 
