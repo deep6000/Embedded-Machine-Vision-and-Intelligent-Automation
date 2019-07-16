@@ -19,7 +19,7 @@ int main(int argc, char** argv)
    int framecount;
    char image [15];
    Mat gray, binary, mfblur, frame, hist;
-   VideoCapture cap(0); // open the default camera
+   VideoCapture cap(-1); // open the default camera
    //get frame size to encode output video of same size
    Size framesize = Size((int)cap.get(CV_CAP_PROP_FRAME_WIDTH), (int)cap.get(CV_CAP_PROP_FRAME_HEIGHT));
   
