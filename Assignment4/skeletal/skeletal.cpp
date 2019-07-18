@@ -76,12 +76,12 @@ int main()
       }
       framecount ++;
       Mat skel(frame.size(), CV_8UC1, Scalar(0));
-      Mat Output(frame.size(), CV_8UC3, Scalar(0));
+      Mat Output;
   
       //convert frame to grayscale
       cvtColor(frame, gray, CV_BGR2GRAY);
       // Calculate Histogram
-      hist_count = CalculateHistogram(frame);
+      hist_count = CalculateHistogram(gray);
       // Thresholding the frame
       threshold(gray, binary, hist_count.y, 255, CV_THRESH_BINARY);
       binary = 255 - binary;
