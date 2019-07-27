@@ -1,0 +1,5481 @@
+Pedestrian Log data
+Pedestrian detected [x,y] : [19,232] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [19,232] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [19,232] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [19,231] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [19,232] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [19,232] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [16,228] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [16,228] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [18,230] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [22,230] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [19,228] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [154,183] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [146,182] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [26,249] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [20,193] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [18,186] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [147,168] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [30,264] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [30,253] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [26,265] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [16,220] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [621,224] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [593,336] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [587,276] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [24,234] 
+Pedestrian detected [x,y] : [580,282] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [563,257] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [541,252] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [554,273] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [550,274] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [554,269] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [450,176] 
+Pedestrian detected [x,y] : [550,267] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [450,176] 
+Pedestrian detected [x,y] : [544,264] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [446,174] 
+Pedestrian detected [x,y] : [534,266] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [519,264] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [511,264] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [499,260] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [491,262] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [482,260] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [472,239] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [467,264] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [461,243] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [444,273] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [442,270] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [433,263] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [425,266] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [458,354] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [446,350] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [376,258] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [364,259] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [348,278] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [326,362] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [341,202] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [18,227] 
+Pedestrian detected [x,y] : [325,200] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,226] 
+Pedestrian detected [x,y] : [338,266] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [310,199] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [304,200] 
+Pedestrian detected [x,y] : [600,227] 
+Number of people in the frame: 2
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [376,204] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [372,206] 
+Pedestrian detected [x,y] : [278,200] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [268,204] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [512,318] 
+Pedestrian detected [x,y] : [218,278] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [207,276] 
+Pedestrian detected [x,y] : [517,280] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [208,224] 
+Pedestrian detected [x,y] : [506,286] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [190,216] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [612,262] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [470,254] 
+Pedestrian detected [x,y] : [162,291] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [408,223] 
+Pedestrian detected [x,y] : [152,283] 
+Pedestrian detected [x,y] : [466,260] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [460,270] 
+Pedestrian detected [x,y] : [148,277] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [16,228] 
+Pedestrian detected [x,y] : [452,268] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [247,258] 
+Pedestrian detected [x,y] : [442,267] 
+Pedestrian detected [x,y] : [531,282] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [434,264] 
+Pedestrian detected [x,y] : [516,283] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [514,276] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [606,195] 
+Pedestrian detected [x,y] : [406,269] 
+Pedestrian detected [x,y] : [510,282] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [598,232] 
+Pedestrian detected [x,y] : [401,272] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [125,200] 
+Pedestrian detected [x,y] : [76,334] 
+Pedestrian detected [x,y] : [393,266] 
+Pedestrian detected [x,y] : [483,278] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [69,323] 
+Pedestrian detected [x,y] : [116,199] 
+Pedestrian detected [x,y] : [501,210] 
+Pedestrian detected [x,y] : [383,267] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [466,288] 
+Pedestrian detected [x,y] : [383,259] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [378,246] 
+Pedestrian detected [x,y] : [453,286] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [444,285] 
+Pedestrian detected [x,y] : [78,278] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [576,226] 
+Pedestrian detected [x,y] : [426,288] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [570,228] 
+Pedestrian detected [x,y] : [426,282] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [568,226] 
+Pedestrian detected [x,y] : [172,264] 
+Pedestrian detected [x,y] : [402,291] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [562,228] 
+Pedestrian detected [x,y] : [384,300] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [561,220] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [557,233] 
+Pedestrian detected [x,y] : [362,298] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [554,172] 
+Pedestrian detected [x,y] : [374,278] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [547,183] 
+Pedestrian detected [x,y] : [538,258] 
+Pedestrian detected [x,y] : [151,272] 
+Pedestrian detected [x,y] : [400,256] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [538,181] 
+Pedestrian detected [x,y] : [335,219] 
+Pedestrian detected [x,y] : [564,138] 
+Pedestrian detected [x,y] : [16,216] 
+Pedestrian detected [x,y] : [146,267] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [408,176] 
+Pedestrian detected [x,y] : [534,190] 
+Pedestrian detected [x,y] : [312,189] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [531,192] 
+Pedestrian detected [x,y] : [314,278] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [522,198] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [516,202] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [18,224] 
+Pedestrian detected [x,y] : [511,204] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [508,201] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [502,203] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [494,206] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [16,228] 
+Pedestrian detected [x,y] : [488,226] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [483,222] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [479,228] 
+Pedestrian detected [x,y] : [211,300] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [476,225] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [470,211] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [122,184] 
+Pedestrian detected [x,y] : [464,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [462,214] 
+Pedestrian detected [x,y] : [166,250] 
+Pedestrian detected [x,y] : [59,266] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [458,217] 
+Pedestrian detected [x,y] : [59,261] 
+Pedestrian detected [x,y] : [175,249] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [450,214] 
+Pedestrian detected [x,y] : [182,250] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [496,180] 
+Pedestrian detected [x,y] : [445,215] 
+Pedestrian detected [x,y] : [173,242] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [441,214] 
+Pedestrian detected [x,y] : [543,258] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [432,225] 
+Pedestrian detected [x,y] : [540,260] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [130,74] 
+Pedestrian detected [x,y] : [427,216] 
+Pedestrian detected [x,y] : [612,222] 
+Pedestrian detected [x,y] : [534,256] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [130,74] 
+Pedestrian detected [x,y] : [418,226] 
+Pedestrian detected [x,y] : [532,255] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [132,72] 
+Pedestrian detected [x,y] : [612,220] 
+Pedestrian detected [x,y] : [416,224] 
+Pedestrian detected [x,y] : [528,253] 
+Pedestrian detected [x,y] : [81,293] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [132,74] 
+Pedestrian detected [x,y] : [410,222] 
+Pedestrian detected [x,y] : [610,228] 
+Pedestrian detected [x,y] : [523,248] 
+Pedestrian detected [x,y] : [78,300] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [405,224] 
+Pedestrian detected [x,y] : [74,294] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [610,206] 
+Pedestrian detected [x,y] : [402,228] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [610,204] 
+Pedestrian detected [x,y] : [396,229] 
+Pedestrian detected [x,y] : [112,270] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [327,188] 
+Pedestrian detected [x,y] : [222,222] 
+Pedestrian detected [x,y] : [607,210] 
+Pedestrian detected [x,y] : [388,227] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [328,186] 
+Pedestrian detected [x,y] : [222,220] 
+Pedestrian detected [x,y] : [606,216] 
+Pedestrian detected [x,y] : [384,225] 
+Pedestrian detected [x,y] : [56,280] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [328,186] 
+Pedestrian detected [x,y] : [604,216] 
+Pedestrian detected [x,y] : [380,219] 
+Pedestrian detected [x,y] : [478,252] 
+Pedestrian detected [x,y] : [56,284] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [324,186] 
+Pedestrian detected [x,y] : [603,213] 
+Pedestrian detected [x,y] : [374,216] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [601,214] 
+Pedestrian detected [x,y] : [324,186] 
+Pedestrian detected [x,y] : [369,214] 
+Pedestrian detected [x,y] : [454,244] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [319,186] 
+Pedestrian detected [x,y] : [364,219] 
+Pedestrian detected [x,y] : [596,214] 
+Pedestrian detected [x,y] : [461,246] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [596,214] 
+Pedestrian detected [x,y] : [355,226] 
+Pedestrian detected [x,y] : [60,320] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [18,296] 
+Pedestrian detected [x,y] : [594,213] 
+Pedestrian detected [x,y] : [350,225] 
+Pedestrian detected [x,y] : [446,251] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [591,215] 
+Pedestrian detected [x,y] : [348,222] 
+Pedestrian detected [x,y] : [439,243] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [585,216] 
+Pedestrian detected [x,y] : [346,214] 
+Pedestrian detected [x,y] : [437,244] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [583,220] 
+Pedestrian detected [x,y] : [335,218] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [582,218] 
+Pedestrian detected [x,y] : [333,226] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [580,217] 
+Pedestrian detected [x,y] : [330,230] 
+Pedestrian detected [x,y] : [52,275] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [574,210] 
+Pedestrian detected [x,y] : [322,222] 
+Pedestrian detected [x,y] : [54,272] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [573,211] 
+Pedestrian detected [x,y] : [20,228] 
+Pedestrian detected [x,y] : [313,223] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [568,214] 
+Pedestrian detected [x,y] : [316,232] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [564,214] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [562,211] 
+Pedestrian detected [x,y] : [373,244] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [368,246] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [362,244] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [360,244] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [362,248] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [602,213] 
+Pedestrian detected [x,y] : [346,246] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [600,212] 
+Pedestrian detected [x,y] : [530,213] 
+Pedestrian detected [x,y] : [273,228] 
+Pedestrian detected [x,y] : [346,243] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [598,211] 
+Pedestrian detected [x,y] : [526,213] 
+Pedestrian detected [x,y] : [269,234] 
+Pedestrian detected [x,y] : [345,249] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [526,212] 
+Pedestrian detected [x,y] : [596,210] 
+Pedestrian detected [x,y] : [264,232] 
+Pedestrian detected [x,y] : [345,249] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [525,210] 
+Pedestrian detected [x,y] : [594,211] 
+Pedestrian detected [x,y] : [258,222] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [594,210] 
+Pedestrian detected [x,y] : [522,212] 
+Pedestrian detected [x,y] : [254,232] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [520,214] 
+Pedestrian detected [x,y] : [590,208] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [520,212] 
+Pedestrian detected [x,y] : [584,209] 
+Pedestrian detected [x,y] : [240,235] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [580,207] 
+Pedestrian detected [x,y] : [515,211] 
+Pedestrian detected [x,y] : [234,231] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [574,209] 
+Pedestrian detected [x,y] : [512,206] 
+Pedestrian detected [x,y] : [228,234] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [510,212] 
+Pedestrian detected [x,y] : [574,211] 
+Pedestrian detected [x,y] : [66,361] 
+Pedestrian detected [x,y] : [227,229] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [506,215] 
+Pedestrian detected [x,y] : [566,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [565,210] 
+Pedestrian detected [x,y] : [502,213] 
+Pedestrian detected [x,y] : [216,232] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [500,210] 
+Pedestrian detected [x,y] : [564,212] 
+Pedestrian detected [x,y] : [210,235] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [497,210] 
+Pedestrian detected [x,y] : [562,212] 
+Pedestrian detected [x,y] : [204,238] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [560,213] 
+Pedestrian detected [x,y] : [114,392] 
+Pedestrian detected [x,y] : [492,212] 
+Pedestrian detected [x,y] : [201,240] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [488,212] 
+Pedestrian detected [x,y] : [556,216] 
+Pedestrian detected [x,y] : [194,236] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [486,212] 
+Pedestrian detected [x,y] : [555,216] 
+Pedestrian detected [x,y] : [121,389] 
+Pedestrian detected [x,y] : [194,240] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [483,212] 
+Pedestrian detected [x,y] : [550,214] 
+Pedestrian detected [x,y] : [254,244] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [480,212] 
+Pedestrian detected [x,y] : [545,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [542,211] 
+Pedestrian detected [x,y] : [479,213] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [542,211] 
+Pedestrian detected [x,y] : [474,214] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [537,210] 
+Pedestrian detected [x,y] : [470,214] 
+Pedestrian detected [x,y] : [273,282] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [152,392] 
+Pedestrian detected [x,y] : [536,209] 
+Pedestrian detected [x,y] : [469,213] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [530,207] 
+Pedestrian detected [x,y] : [465,210] 
+Pedestrian detected [x,y] : [144,296] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [526,212] 
+Pedestrian detected [x,y] : [462,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [524,212] 
+Pedestrian detected [x,y] : [459,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [522,211] 
+Pedestrian detected [x,y] : [461,214] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [456,213] 
+Pedestrian detected [x,y] : [519,211] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [516,210] 
+Pedestrian detected [x,y] : [452,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [513,211] 
+Pedestrian detected [x,y] : [449,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [432,212] 
+Pedestrian detected [x,y] : [510,210] 
+Pedestrian detected [x,y] : [123,276] 
+Pedestrian detected [x,y] : [257,307] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [441,214] 
+Pedestrian detected [x,y] : [505,212] 
+Pedestrian detected [x,y] : [259,400] 
+Pedestrian detected [x,y] : [120,235] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [462,212] 
+Pedestrian detected [x,y] : [498,211] 
+Pedestrian detected [x,y] : [429,216] 
+Pedestrian detected [x,y] : [260,402] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [430,212] 
+Pedestrian detected [x,y] : [497,213] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [426,215] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [427,212] 
+Pedestrian detected [x,y] : [486,214] 
+Pedestrian detected [x,y] : [251,322] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [427,212] 
+Pedestrian detected [x,y] : [486,211] 
+Pedestrian detected [x,y] : [497,273] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [424,213] 
+Pedestrian detected [x,y] : [482,212] 
+Pedestrian detected [x,y] : [202,200] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [424,210] 
+Pedestrian detected [x,y] : [482,211] 
+Pedestrian detected [x,y] : [285,308] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [478,212] 
+Pedestrian detected [x,y] : [422,211] 
+Pedestrian detected [x,y] : [576,242] 
+Pedestrian detected [x,y] : [66,362] 
+Pedestrian detected [x,y] : [297,286] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [418,208] 
+Pedestrian detected [x,y] : [476,211] 
+Pedestrian detected [x,y] : [206,201] 
+Pedestrian detected [x,y] : [315,146] 
+Pedestrian detected [x,y] : [575,240] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [417,206] 
+Pedestrian detected [x,y] : [208,206] 
+Pedestrian detected [x,y] : [476,211] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [210,202] 
+Pedestrian detected [x,y] : [474,212] 
+Pedestrian detected [x,y] : [416,208] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [210,202] 
+Pedestrian detected [x,y] : [414,212] 
+Pedestrian detected [x,y] : [472,212] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [132,78] 
+Pedestrian detected [x,y] : [211,208] 
+Pedestrian detected [x,y] : [470,212] 
+Pedestrian detected [x,y] : [54,278] 
+Pedestrian detected [x,y] : [414,210] 
+Pedestrian detected [x,y] : [558,272] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [215,206] 
+Pedestrian detected [x,y] : [469,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [216,207] 
+Pedestrian detected [x,y] : [464,212] 
+Pedestrian detected [x,y] : [48,276] 
+Pedestrian detected [x,y] : [407,204] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [215,207] 
+Pedestrian detected [x,y] : [460,211] 
+Pedestrian detected [x,y] : [50,274] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [214,208] 
+Pedestrian detected [x,y] : [458,211] 
+Pedestrian detected [x,y] : [45,275] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [42,276] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [130,70] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [219,202] 
+Pedestrian detected [x,y] : [130,70] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [565,208] 
+Pedestrian detected [x,y] : [172,296] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [564,209] 
+Pedestrian detected [x,y] : [430,308] 
+Pedestrian detected [x,y] : [182,298] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [225,346] 
+Pedestrian detected [x,y] : [452,304] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [386,209] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [382,210] 
+Pedestrian detected [x,y] : [194,294] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [380,212] 
+Pedestrian detected [x,y] : [21,216] 
+Pedestrian detected [x,y] : [514,298] 
+Pedestrian detected [x,y] : [200,296] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [428,208] 
+Pedestrian detected [x,y] : [380,212] 
+Pedestrian detected [x,y] : [216,286] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [380,211] 
+Pedestrian detected [x,y] : [426,210] 
+Pedestrian detected [x,y] : [226,277] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [589,207] 
+Pedestrian detected [x,y] : [372,212] 
+Pedestrian detected [x,y] : [426,210] 
+Pedestrian detected [x,y] : [234,287] 
+Pedestrian detected [x,y] : [552,314] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [590,203] 
+Pedestrian detected [x,y] : [422,210] 
+Pedestrian detected [x,y] : [374,212] 
+Pedestrian detected [x,y] : [242,292] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [592,200] 
+Pedestrian detected [x,y] : [419,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [612,199] 
+Pedestrian detected [x,y] : [358,214] 
+Pedestrian detected [x,y] : [302,246] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [612,198] 
+Pedestrian detected [x,y] : [411,212] 
+Pedestrian detected [x,y] : [586,227] 
+Number of people in the frame: 3
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [430,213] 
+Pedestrian detected [x,y] : [394,214] 
+Pedestrian detected [x,y] : [246,220] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [392,214] 
+Pedestrian detected [x,y] : [426,214] 
+Pedestrian detected [x,y] : [261,230] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [389,214] 
+Pedestrian detected [x,y] : [278,240] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [388,211] 
+Pedestrian detected [x,y] : [346,372] 
+Pedestrian detected [x,y] : [567,300] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [250,204] 
+Pedestrian detected [x,y] : [522,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [165,210] 
+Pedestrian detected [x,y] : [520,200] 
+Pedestrian detected [x,y] : [345,293] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [519,200] 
+Pedestrian detected [x,y] : [312,221] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [255,202] 
+Pedestrian detected [x,y] : [562,208] 
+Pedestrian detected [x,y] : [517,203] 
+Pedestrian detected [x,y] : [315,219] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [258,203] 
+Pedestrian detected [x,y] : [558,207] 
+Pedestrian detected [x,y] : [516,205] 
+Pedestrian detected [x,y] : [328,222] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [511,204] 
+Pedestrian detected [x,y] : [259,203] 
+Pedestrian detected [x,y] : [553,203] 
+Pedestrian detected [x,y] : [333,222] 
+Pedestrian detected [x,y] : [430,238] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [258,201] 
+Pedestrian detected [x,y] : [553,204] 
+Pedestrian detected [x,y] : [508,200] 
+Pedestrian detected [x,y] : [347,222] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [167,204] 
+Pedestrian detected [x,y] : [260,203] 
+Pedestrian detected [x,y] : [507,202] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [263,203] 
+Pedestrian detected [x,y] : [343,212] 
+Pedestrian detected [x,y] : [503,200] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [264,202] 
+Pedestrian detected [x,y] : [334,209] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [202,202] 
+Pedestrian detected [x,y] : [268,204] 
+Pedestrian detected [x,y] : [332,210] 
+Pedestrian detected [x,y] : [370,224] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [269,202] 
+Pedestrian detected [x,y] : [200,201] 
+Pedestrian detected [x,y] : [329,210] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [274,203] 
+Pedestrian detected [x,y] : [327,208] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [276,202] 
+Pedestrian detected [x,y] : [326,207] 
+Pedestrian detected [x,y] : [176,212] 
+Pedestrian detected [x,y] : [466,290] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [176,209] 
+Pedestrian detected [x,y] : [276,202] 
+Pedestrian detected [x,y] : [324,206] 
+Pedestrian detected [x,y] : [607,206] 
+Pedestrian detected [x,y] : [477,286] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [276,204] 
+Pedestrian detected [x,y] : [176,212] 
+Pedestrian detected [x,y] : [606,202] 
+Pedestrian detected [x,y] : [486,285] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [276,204] 
+Pedestrian detected [x,y] : [176,212] 
+Pedestrian detected [x,y] : [604,206] 
+Pedestrian detected [x,y] : [488,294] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [336,268] 
+Pedestrian detected [x,y] : [604,200] 
+Pedestrian detected [x,y] : [490,290] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [604,198] 
+Pedestrian detected [x,y] : [540,250] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [602,198] 
+Pedestrian detected [x,y] : [314,206] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [315,206] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [318,206] 
+Pedestrian detected [x,y] : [188,212] 
+Pedestrian detected [x,y] : [600,208] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [313,205] 
+Pedestrian detected [x,y] : [184,208] 
+Number of people in the frame: 2
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [332,206] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [220,200] 
+Pedestrian detected [x,y] : [327,198] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [330,202] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [464,202] 
+Pedestrian detected [x,y] : [602,194] 
+Pedestrian detected [x,y] : [323,204] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [193,208] 
+Pedestrian detected [x,y] : [322,203] 
+Pedestrian detected [x,y] : [50,317] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [193,208] 
+Pedestrian detected [x,y] : [459,198] 
+Pedestrian detected [x,y] : [557,268] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [194,212] 
+Pedestrian detected [x,y] : [530,268] 
+Pedestrian detected [x,y] : [458,199] 
+Pedestrian detected [x,y] : [322,203] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [197,202] 
+Pedestrian detected [x,y] : [227,202] 
+Pedestrian detected [x,y] : [502,203] 
+Pedestrian detected [x,y] : [458,199] 
+Pedestrian detected [x,y] : [317,206] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [502,203] 
+Pedestrian detected [x,y] : [457,200] 
+Pedestrian detected [x,y] : [310,211] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [202,202] 
+Pedestrian detected [x,y] : [456,203] 
+Pedestrian detected [x,y] : [500,202] 
+Pedestrian detected [x,y] : [304,214] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [204,204] 
+Pedestrian detected [x,y] : [452,202] 
+Pedestrian detected [x,y] : [497,200] 
+Pedestrian detected [x,y] : [302,212] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [451,202] 
+Pedestrian detected [x,y] : [203,208] 
+Pedestrian detected [x,y] : [496,202] 
+Pedestrian detected [x,y] : [300,208] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [450,195] 
+Pedestrian detected [x,y] : [577,161] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [320,205] 
+Pedestrian detected [x,y] : [447,200] 
+Pedestrian detected [x,y] : [574,162] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [444,198] 
+Pedestrian detected [x,y] : [320,205] 
+Pedestrian detected [x,y] : [317,264] 
+Pedestrian detected [x,y] : [562,157] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [441,195] 
+Pedestrian detected [x,y] : [596,372] 
+Pedestrian detected [x,y] : [324,206] 
+Pedestrian detected [x,y] : [316,264] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [593,377] 
+Pedestrian detected [x,y] : [325,206] 
+Pedestrian detected [x,y] : [207,206] 
+Pedestrian detected [x,y] : [313,259] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [334,207] 
+Pedestrian detected [x,y] : [311,260] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [178,206] 
+Pedestrian detected [x,y] : [334,205] 
+Pedestrian detected [x,y] : [565,208] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [334,202] 
+Pedestrian detected [x,y] : [178,206] 
+Pedestrian detected [x,y] : [561,206] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [334,201] 
+Pedestrian detected [x,y] : [176,204] 
+Pedestrian detected [x,y] : [558,202] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [339,198] 
+Pedestrian detected [x,y] : [553,203] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [339,198] 
+Pedestrian detected [x,y] : [552,202] 
+Pedestrian detected [x,y] : [113,251] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [342,202] 
+Pedestrian detected [x,y] : [617,194] 
+Pedestrian detected [x,y] : [562,202] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [184,210] 
+Pedestrian detected [x,y] : [344,196] 
+Pedestrian detected [x,y] : [544,203] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [185,205] 
+Pedestrian detected [x,y] : [542,202] 
+Pedestrian detected [x,y] : [113,222] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [548,201] 
+Pedestrian detected [x,y] : [139,267] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [548,200] 
+Pedestrian detected [x,y] : [143,270] 
+Pedestrian detected [x,y] : [394,274] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [544,201] 
+Pedestrian detected [x,y] : [273,204] 
+Pedestrian detected [x,y] : [463,202] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [268,207] 
+Pedestrian detected [x,y] : [555,206] 
+Pedestrian detected [x,y] : [372,372] 
+Pedestrian detected [x,y] : [524,194] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [523,194] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [527,199] 
+Pedestrian detected [x,y] : [361,380] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [453,202] 
+Pedestrian detected [x,y] : [526,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [451,203] 
+Pedestrian detected [x,y] : [612,205] 
+Pedestrian detected [x,y] : [540,172] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [529,200] 
+Pedestrian detected [x,y] : [450,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [408,200] 
+Pedestrian detected [x,y] : [530,200] 
+Pedestrian detected [x,y] : [448,203] 
+Pedestrian detected [x,y] : [614,200] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [231,204] 
+Pedestrian detected [x,y] : [369,205] 
+Pedestrian detected [x,y] : [533,208] 
+Pedestrian detected [x,y] : [444,202] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [402,199] 
+Pedestrian detected [x,y] : [370,202] 
+Pedestrian detected [x,y] : [534,206] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [401,200] 
+Pedestrian detected [x,y] : [531,204] 
+Pedestrian detected [x,y] : [214,220] 
+Pedestrian detected [x,y] : [281,332] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [399,196] 
+Pedestrian detected [x,y] : [530,204] 
+Pedestrian detected [x,y] : [438,204] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [391,196] 
+Pedestrian detected [x,y] : [528,204] 
+Pedestrian detected [x,y] : [224,320] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [392,198] 
+Pedestrian detected [x,y] : [434,202] 
+Pedestrian detected [x,y] : [526,206] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [388,197] 
+Pedestrian detected [x,y] : [524,204] 
+Pedestrian detected [x,y] : [266,152] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [384,202] 
+Pedestrian detected [x,y] : [513,204] 
+Pedestrian detected [x,y] : [170,245] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [506,204] 
+Pedestrian detected [x,y] : [384,206] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [384,207] 
+Pedestrian detected [x,y] : [502,208] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [385,206] 
+Pedestrian detected [x,y] : [494,205] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [489,203] 
+Pedestrian detected [x,y] : [387,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [489,201] 
+Pedestrian detected [x,y] : [388,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [490,204] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [247,210] 
+Pedestrian detected [x,y] : [394,210] 
+Pedestrian detected [x,y] : [490,204] 
+Pedestrian detected [x,y] : [126,274] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [246,210] 
+Pedestrian detected [x,y] : [489,204] 
+Pedestrian detected [x,y] : [316,320] 
+Pedestrian detected [x,y] : [398,205] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [399,208] 
+Pedestrian detected [x,y] : [489,206] 
+Pedestrian detected [x,y] : [248,211] 
+Pedestrian detected [x,y] : [322,320] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [492,203] 
+Pedestrian detected [x,y] : [202,209] 
+Pedestrian detected [x,y] : [326,319] 
+Pedestrian detected [x,y] : [244,210] 
+Pedestrian detected [x,y] : [400,212] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [492,201] 
+Pedestrian detected [x,y] : [241,216] 
+Pedestrian detected [x,y] : [402,212] 
+Pedestrian detected [x,y] : [128,294] 
+Pedestrian detected [x,y] : [319,228] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [493,200] 
+Pedestrian detected [x,y] : [404,206] 
+Pedestrian detected [x,y] : [244,216] 
+Pedestrian detected [x,y] : [125,320] 
+Pedestrian detected [x,y] : [319,228] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [488,200] 
+Pedestrian detected [x,y] : [200,206] 
+Pedestrian detected [x,y] : [408,204] 
+Pedestrian detected [x,y] : [126,309] 
+Pedestrian detected [x,y] : [317,229] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [250,208] 
+Pedestrian detected [x,y] : [412,202] 
+Pedestrian detected [x,y] : [486,201] 
+Pedestrian detected [x,y] : [124,309] 
+Pedestrian detected [x,y] : [322,230] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [414,203] 
+Pedestrian detected [x,y] : [485,200] 
+Pedestrian detected [x,y] : [192,210] 
+Pedestrian detected [x,y] : [244,208] 
+Pedestrian detected [x,y] : [100,347] 
+Pedestrian detected [x,y] : [324,231] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [242,208] 
+Pedestrian detected [x,y] : [193,208] 
+Pedestrian detected [x,y] : [481,202] 
+Pedestrian detected [x,y] : [418,204] 
+Pedestrian detected [x,y] : [326,228] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [194,208] 
+Pedestrian detected [x,y] : [238,207] 
+Pedestrian detected [x,y] : [478,199] 
+Pedestrian detected [x,y] : [419,204] 
+Pedestrian detected [x,y] : [96,316] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [475,199] 
+Pedestrian detected [x,y] : [232,208] 
+Pedestrian detected [x,y] : [194,212] 
+Pedestrian detected [x,y] : [92,308] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [427,196] 
+Pedestrian detected [x,y] : [477,200] 
+Pedestrian detected [x,y] : [232,208] 
+Pedestrian detected [x,y] : [262,203] 
+Pedestrian detected [x,y] : [190,211] 
+Pedestrian detected [x,y] : [78,314] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [483,198] 
+Pedestrian detected [x,y] : [234,204] 
+Pedestrian detected [x,y] : [262,203] 
+Pedestrian detected [x,y] : [428,198] 
+Pedestrian detected [x,y] : [22,298] 
+Pedestrian detected [x,y] : [128,226] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [478,199] 
+Pedestrian detected [x,y] : [233,204] 
+Pedestrian detected [x,y] : [265,202] 
+Pedestrian detected [x,y] : [21,306] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [266,202] 
+Pedestrian detected [x,y] : [222,206] 
+Pedestrian detected [x,y] : [470,200] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [268,204] 
+Pedestrian detected [x,y] : [468,198] 
+Pedestrian detected [x,y] : [228,206] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [344,194] 
+Pedestrian detected [x,y] : [226,204] 
+Pedestrian detected [x,y] : [268,204] 
+Pedestrian detected [x,y] : [308,204] 
+Pedestrian detected [x,y] : [471,200] 
+Pedestrian detected [x,y] : [103,238] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [342,198] 
+Pedestrian detected [x,y] : [470,200] 
+Pedestrian detected [x,y] : [246,204] 
+Pedestrian detected [x,y] : [304,202] 
+Pedestrian detected [x,y] : [178,210] 
+Pedestrian detected [x,y] : [93,244] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [22,162] 
+Pedestrian detected [x,y] : [344,200] 
+Pedestrian detected [x,y] : [253,204] 
+Pedestrian detected [x,y] : [178,210] 
+Pedestrian detected [x,y] : [468,202] 
+Pedestrian detected [x,y] : [113,232] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [265,203] 
+Pedestrian detected [x,y] : [341,200] 
+Pedestrian detected [x,y] : [608,204] 
+Pedestrian detected [x,y] : [176,212] 
+Pedestrian detected [x,y] : [214,204] 
+Pedestrian detected [x,y] : [421,254] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [338,200] 
+Pedestrian detected [x,y] : [264,203] 
+Pedestrian detected [x,y] : [176,212] 
+Pedestrian detected [x,y] : [215,204] 
+Pedestrian detected [x,y] : [420,254] 
+Pedestrian detected [x,y] : [117,225] 
+Pedestrian detected [x,y] : [52,287] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [274,202] 
+Pedestrian detected [x,y] : [462,203] 
+Pedestrian detected [x,y] : [247,202] 
+Pedestrian detected [x,y] : [177,212] 
+Pedestrian detected [x,y] : [423,256] 
+Pedestrian detected [x,y] : [50,292] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [276,204] 
+Pedestrian detected [x,y] : [212,204] 
+Pedestrian detected [x,y] : [247,202] 
+Pedestrian detected [x,y] : [170,210] 
+Pedestrian detected [x,y] : [430,255] 
+Pedestrian detected [x,y] : [51,292] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [278,203] 
+Pedestrian detected [x,y] : [210,204] 
+Pedestrian detected [x,y] : [247,202] 
+Pedestrian detected [x,y] : [441,248] 
+Pedestrian detected [x,y] : [128,224] 
+Pedestrian detected [x,y] : [51,288] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [210,206] 
+Pedestrian detected [x,y] : [249,202] 
+Pedestrian detected [x,y] : [278,202] 
+Pedestrian detected [x,y] : [125,238] 
+Pedestrian detected [x,y] : [442,253] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [248,202] 
+Pedestrian detected [x,y] : [326,204] 
+Pedestrian detected [x,y] : [208,207] 
+Pedestrian detected [x,y] : [280,202] 
+Pedestrian detected [x,y] : [444,256] 
+Pedestrian detected [x,y] : [118,233] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [168,207] 
+Pedestrian detected [x,y] : [206,208] 
+Pedestrian detected [x,y] : [248,202] 
+Pedestrian detected [x,y] : [324,204] 
+Pedestrian detected [x,y] : [446,256] 
+Pedestrian detected [x,y] : [114,228] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [167,207] 
+Pedestrian detected [x,y] : [206,209] 
+Pedestrian detected [x,y] : [248,202] 
+Pedestrian detected [x,y] : [283,202] 
+Pedestrian detected [x,y] : [322,204] 
+Pedestrian detected [x,y] : [122,227] 
+Pedestrian detected [x,y] : [454,256] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [204,208] 
+Pedestrian detected [x,y] : [251,202] 
+Pedestrian detected [x,y] : [286,203] 
+Pedestrian detected [x,y] : [324,204] 
+Pedestrian detected [x,y] : [166,208] 
+Pedestrian detected [x,y] : [120,230] 
+Pedestrian detected [x,y] : [457,264] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [424,200] 
+Pedestrian detected [x,y] : [167,207] 
+Pedestrian detected [x,y] : [204,212] 
+Pedestrian detected [x,y] : [251,202] 
+Pedestrian detected [x,y] : [286,203] 
+Pedestrian detected [x,y] : [326,204] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [424,200] 
+Pedestrian detected [x,y] : [204,212] 
+Pedestrian detected [x,y] : [251,202] 
+Pedestrian detected [x,y] : [286,203] 
+Pedestrian detected [x,y] : [326,204] 
+Pedestrian detected [x,y] : [164,209] 
+Pedestrian detected [x,y] : [474,260] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [202,210] 
+Pedestrian detected [x,y] : [250,203] 
+Pedestrian detected [x,y] : [326,204] 
+Pedestrian detected [x,y] : [353,202] 
+Pedestrian detected [x,y] : [287,202] 
+Pedestrian detected [x,y] : [424,198] 
+Pedestrian detected [x,y] : [480,262] 
+Pedestrian detected [x,y] : [123,247] 
+Number of people in the frame: 8
+
+Pedestrian detected [x,y] : [422,198] 
+Pedestrian detected [x,y] : [202,206] 
+Pedestrian detected [x,y] : [250,203] 
+Pedestrian detected [x,y] : [288,201] 
+Pedestrian detected [x,y] : [127,258] 
+Pedestrian detected [x,y] : [486,257] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [254,203] 
+Pedestrian detected [x,y] : [288,203] 
+Pedestrian detected [x,y] : [426,200] 
+Pedestrian detected [x,y] : [490,256] 
+Pedestrian detected [x,y] : [130,246] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [426,197] 
+Pedestrian detected [x,y] : [254,203] 
+Pedestrian detected [x,y] : [328,205] 
+Pedestrian detected [x,y] : [108,232] 
+Pedestrian detected [x,y] : [496,259] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [255,202] 
+Pedestrian detected [x,y] : [430,198] 
+Pedestrian detected [x,y] : [332,206] 
+Pedestrian detected [x,y] : [500,256] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [255,204] 
+Pedestrian detected [x,y] : [428,198] 
+Pedestrian detected [x,y] : [505,256] 
+Pedestrian detected [x,y] : [107,245] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [256,202] 
+Pedestrian detected [x,y] : [424,198] 
+Pedestrian detected [x,y] : [510,260] 
+Pedestrian detected [x,y] : [109,248] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [256,206] 
+Pedestrian detected [x,y] : [422,198] 
+Pedestrian detected [x,y] : [80,204] 
+Pedestrian detected [x,y] : [194,202] 
+Pedestrian detected [x,y] : [334,208] 
+Pedestrian detected [x,y] : [515,264] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [427,196] 
+Pedestrian detected [x,y] : [80,204] 
+Pedestrian detected [x,y] : [258,203] 
+Pedestrian detected [x,y] : [337,206] 
+Pedestrian detected [x,y] : [519,268] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [429,198] 
+Pedestrian detected [x,y] : [77,206] 
+Pedestrian detected [x,y] : [258,203] 
+Pedestrian detected [x,y] : [321,202] 
+Pedestrian detected [x,y] : [523,270] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [428,196] 
+Pedestrian detected [x,y] : [75,206] 
+Pedestrian detected [x,y] : [258,203] 
+Pedestrian detected [x,y] : [304,202] 
+Pedestrian detected [x,y] : [342,206] 
+Pedestrian detected [x,y] : [525,267] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [424,198] 
+Pedestrian detected [x,y] : [73,205] 
+Pedestrian detected [x,y] : [262,204] 
+Pedestrian detected [x,y] : [305,201] 
+Pedestrian detected [x,y] : [341,206] 
+Pedestrian detected [x,y] : [531,258] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [424,196] 
+Pedestrian detected [x,y] : [72,208] 
+Pedestrian detected [x,y] : [260,203] 
+Pedestrian detected [x,y] : [304,201] 
+Pedestrian detected [x,y] : [344,206] 
+Pedestrian detected [x,y] : [564,212] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [71,209] 
+Pedestrian detected [x,y] : [268,203] 
+Pedestrian detected [x,y] : [344,206] 
+Pedestrian detected [x,y] : [426,200] 
+Pedestrian detected [x,y] : [305,195] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [265,203] 
+Pedestrian detected [x,y] : [420,199] 
+Pedestrian detected [x,y] : [69,207] 
+Pedestrian detected [x,y] : [352,204] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [352,202] 
+Pedestrian detected [x,y] : [414,200] 
+Pedestrian detected [x,y] : [69,207] 
+Pedestrian detected [x,y] : [264,204] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [352,202] 
+Pedestrian detected [x,y] : [264,204] 
+Pedestrian detected [x,y] : [67,210] 
+Pedestrian detected [x,y] : [413,199] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [267,201] 
+Pedestrian detected [x,y] : [352,201] 
+Pedestrian detected [x,y] : [418,199] 
+Pedestrian detected [x,y] : [65,208] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [354,202] 
+Pedestrian detected [x,y] : [413,198] 
+Pedestrian detected [x,y] : [63,208] 
+Pedestrian detected [x,y] : [266,202] 
+Pedestrian detected [x,y] : [314,204] 
+Pedestrian detected [x,y] : [136,238] 
+Pedestrian detected [x,y] : [564,238] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [355,200] 
+Pedestrian detected [x,y] : [414,198] 
+Pedestrian detected [x,y] : [310,204] 
+Pedestrian detected [x,y] : [63,212] 
+Pedestrian detected [x,y] : [270,202] 
+Pedestrian detected [x,y] : [136,231] 
+Pedestrian detected [x,y] : [562,245] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [356,204] 
+Pedestrian detected [x,y] : [410,197] 
+Pedestrian detected [x,y] : [318,204] 
+Pedestrian detected [x,y] : [60,209] 
+Pedestrian detected [x,y] : [137,245] 
+Pedestrian detected [x,y] : [564,248] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [408,198] 
+Pedestrian detected [x,y] : [318,204] 
+Pedestrian detected [x,y] : [360,202] 
+Pedestrian detected [x,y] : [60,211] 
+Pedestrian detected [x,y] : [142,247] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [410,198] 
+Pedestrian detected [x,y] : [360,203] 
+Pedestrian detected [x,y] : [60,211] 
+Pedestrian detected [x,y] : [320,202] 
+Pedestrian detected [x,y] : [142,241] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [408,198] 
+Pedestrian detected [x,y] : [320,202] 
+Pedestrian detected [x,y] : [57,211] 
+Pedestrian detected [x,y] : [360,206] 
+Pedestrian detected [x,y] : [142,240] 
+Pedestrian detected [x,y] : [576,249] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [409,199] 
+Pedestrian detected [x,y] : [54,211] 
+Pedestrian detected [x,y] : [144,248] 
+Pedestrian detected [x,y] : [578,254] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [54,211] 
+Pedestrian detected [x,y] : [322,200] 
+Pedestrian detected [x,y] : [411,200] 
+Pedestrian detected [x,y] : [365,208] 
+Pedestrian detected [x,y] : [148,242] 
+Pedestrian detected [x,y] : [249,245] 
+Pedestrian detected [x,y] : [579,248] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [408,201] 
+Pedestrian detected [x,y] : [573,206] 
+Pedestrian detected [x,y] : [50,213] 
+Pedestrian detected [x,y] : [613,314] 
+Pedestrian detected [x,y] : [368,208] 
+Pedestrian detected [x,y] : [149,244] 
+Pedestrian detected [x,y] : [258,252] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [46,211] 
+Pedestrian detected [x,y] : [408,201] 
+Pedestrian detected [x,y] : [369,205] 
+Pedestrian detected [x,y] : [151,244] 
+Pedestrian detected [x,y] : [261,252] 
+Pedestrian detected [x,y] : [580,249] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [326,203] 
+Pedestrian detected [x,y] : [406,201] 
+Pedestrian detected [x,y] : [372,203] 
+Pedestrian detected [x,y] : [581,206] 
+Pedestrian detected [x,y] : [46,210] 
+Pedestrian detected [x,y] : [152,228] 
+Pedestrian detected [x,y] : [266,242] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [328,201] 
+Pedestrian detected [x,y] : [45,212] 
+Pedestrian detected [x,y] : [584,210] 
+Pedestrian detected [x,y] : [151,246] 
+Pedestrian detected [x,y] : [272,242] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [44,211] 
+Pedestrian detected [x,y] : [329,202] 
+Pedestrian detected [x,y] : [380,200] 
+Pedestrian detected [x,y] : [581,254] 
+Pedestrian detected [x,y] : [154,233] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [40,212] 
+Pedestrian detected [x,y] : [378,204] 
+Pedestrian detected [x,y] : [584,216] 
+Pedestrian detected [x,y] : [312,248] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [40,212] 
+Pedestrian detected [x,y] : [295,224] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [240,206] 
+Pedestrian detected [x,y] : [36,214] 
+Pedestrian detected [x,y] : [149,282] 
+Pedestrian detected [x,y] : [308,226] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [152,282] 
+Pedestrian detected [x,y] : [34,213] 
+Pedestrian detected [x,y] : [312,233] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [239,202] 
+Pedestrian detected [x,y] : [34,213] 
+Pedestrian detected [x,y] : [322,248] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [31,214] 
+Pedestrian detected [x,y] : [386,200] 
+Pedestrian detected [x,y] : [324,218] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [238,202] 
+Pedestrian detected [x,y] : [29,213] 
+Pedestrian detected [x,y] : [330,241] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [29,213] 
+Pedestrian detected [x,y] : [330,224] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [30,214] 
+Pedestrian detected [x,y] : [328,234] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [585,202] 
+Pedestrian detected [x,y] : [337,250] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [585,202] 
+Pedestrian detected [x,y] : [28,213] 
+Pedestrian detected [x,y] : [341,254] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [584,203] 
+Pedestrian detected [x,y] : [26,211] 
+Pedestrian detected [x,y] : [347,250] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [585,202] 
+Pedestrian detected [x,y] : [26,214] 
+Pedestrian detected [x,y] : [297,206] 
+Pedestrian detected [x,y] : [230,252] 
+Pedestrian detected [x,y] : [348,248] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [24,213] 
+Pedestrian detected [x,y] : [299,206] 
+Pedestrian detected [x,y] : [233,252] 
+Pedestrian detected [x,y] : [361,248] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [24,213] 
+Pedestrian detected [x,y] : [236,265] 
+Pedestrian detected [x,y] : [406,208] 
+Pedestrian detected [x,y] : [367,248] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [304,204] 
+Pedestrian detected [x,y] : [25,214] 
+Pedestrian detected [x,y] : [238,246] 
+Pedestrian detected [x,y] : [372,244] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [582,202] 
+Pedestrian detected [x,y] : [21,215] 
+Pedestrian detected [x,y] : [304,204] 
+Pedestrian detected [x,y] : [238,246] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [582,202] 
+Pedestrian detected [x,y] : [20,220] 
+Pedestrian detected [x,y] : [304,200] 
+Pedestrian detected [x,y] : [106,188] 
+Pedestrian detected [x,y] : [238,248] 
+Pedestrian detected [x,y] : [384,238] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [582,202] 
+Pedestrian detected [x,y] : [20,221] 
+Pedestrian detected [x,y] : [307,202] 
+Pedestrian detected [x,y] : [101,187] 
+Pedestrian detected [x,y] : [246,252] 
+Pedestrian detected [x,y] : [385,242] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [614,203] 
+Pedestrian detected [x,y] : [16,214] 
+Pedestrian detected [x,y] : [309,200] 
+Pedestrian detected [x,y] : [356,206] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [309,200] 
+Pedestrian detected [x,y] : [612,200] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [613,202] 
+Pedestrian detected [x,y] : [310,202] 
+Pedestrian detected [x,y] : [404,257] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [611,204] 
+Pedestrian detected [x,y] : [370,204] 
+Pedestrian detected [x,y] : [313,203] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [611,201] 
+Pedestrian detected [x,y] : [314,202] 
+Pedestrian detected [x,y] : [369,208] 
+Pedestrian detected [x,y] : [252,242] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [610,200] 
+Pedestrian detected [x,y] : [370,206] 
+Pedestrian detected [x,y] : [252,234] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [374,204] 
+Pedestrian detected [x,y] : [610,198] 
+Pedestrian detected [x,y] : [200,202] 
+Pedestrian detected [x,y] : [319,203] 
+Pedestrian detected [x,y] : [434,220] 
+Pedestrian detected [x,y] : [248,237] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [97,192] 
+Pedestrian detected [x,y] : [330,200] 
+Pedestrian detected [x,y] : [608,198] 
+Pedestrian detected [x,y] : [376,205] 
+Pedestrian detected [x,y] : [200,204] 
+Pedestrian detected [x,y] : [440,220] 
+Pedestrian detected [x,y] : [254,231] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [335,204] 
+Pedestrian detected [x,y] : [608,198] 
+Pedestrian detected [x,y] : [202,201] 
+Pedestrian detected [x,y] : [375,210] 
+Pedestrian detected [x,y] : [96,192] 
+Pedestrian detected [x,y] : [442,256] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [333,206] 
+Pedestrian detected [x,y] : [608,198] 
+Pedestrian detected [x,y] : [376,208] 
+Pedestrian detected [x,y] : [203,207] 
+Pedestrian detected [x,y] : [440,254] 
+Pedestrian detected [x,y] : [260,238] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [342,203] 
+Pedestrian detected [x,y] : [605,198] 
+Pedestrian detected [x,y] : [380,207] 
+Pedestrian detected [x,y] : [270,243] 
+Pedestrian detected [x,y] : [446,254] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [603,198] 
+Pedestrian detected [x,y] : [342,203] 
+Pedestrian detected [x,y] : [382,205] 
+Pedestrian detected [x,y] : [274,238] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [338,200] 
+Pedestrian detected [x,y] : [387,203] 
+Pedestrian detected [x,y] : [602,198] 
+Pedestrian detected [x,y] : [299,286] 
+Pedestrian detected [x,y] : [197,202] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [339,200] 
+Pedestrian detected [x,y] : [387,206] 
+Pedestrian detected [x,y] : [302,287] 
+Pedestrian detected [x,y] : [198,202] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [484,185] 
+Pedestrian detected [x,y] : [232,200] 
+Pedestrian detected [x,y] : [340,203] 
+Pedestrian detected [x,y] : [443,276] 
+Pedestrian detected [x,y] : [308,286] 
+Pedestrian detected [x,y] : [194,202] 
+Pedestrian detected [x,y] : [390,207] 
+Pedestrian detected [x,y] : [495,238] 
+Number of people in the frame: 8
+
+Pedestrian detected [x,y] : [340,204] 
+Pedestrian detected [x,y] : [194,202] 
+Pedestrian detected [x,y] : [490,222] 
+Pedestrian detected [x,y] : [448,276] 
+Pedestrian detected [x,y] : [392,206] 
+Pedestrian detected [x,y] : [588,204] 
+Pedestrian detected [x,y] : [429,206] 
+Pedestrian detected [x,y] : [316,262] 
+Number of people in the frame: 8
+
+Pedestrian detected [x,y] : [189,202] 
+Pedestrian detected [x,y] : [229,201] 
+Pedestrian detected [x,y] : [586,204] 
+Pedestrian detected [x,y] : [496,180] 
+Pedestrian detected [x,y] : [392,206] 
+Pedestrian detected [x,y] : [452,278] 
+Pedestrian detected [x,y] : [429,206] 
+Pedestrian detected [x,y] : [298,220] 
+Number of people in the frame: 8
+
+Pedestrian detected [x,y] : [185,202] 
+Pedestrian detected [x,y] : [228,200] 
+Pedestrian detected [x,y] : [394,208] 
+Pedestrian detected [x,y] : [491,250] 
+Pedestrian detected [x,y] : [307,224] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [228,198] 
+Pedestrian detected [x,y] : [584,202] 
+Pedestrian detected [x,y] : [181,204] 
+Pedestrian detected [x,y] : [394,210] 
+Pedestrian detected [x,y] : [436,205] 
+Pedestrian detected [x,y] : [499,248] 
+Pedestrian detected [x,y] : [308,228] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [131,189] 
+Pedestrian detected [x,y] : [583,201] 
+Pedestrian detected [x,y] : [185,202] 
+Pedestrian detected [x,y] : [438,208] 
+Pedestrian detected [x,y] : [398,206] 
+Pedestrian detected [x,y] : [499,249] 
+Pedestrian detected [x,y] : [312,234] 
+Number of people in the frame: 7
+
+Pedestrian detected [x,y] : [582,201] 
+Pedestrian detected [x,y] : [183,202] 
+Pedestrian detected [x,y] : [398,210] 
+Pedestrian detected [x,y] : [439,210] 
+Pedestrian detected [x,y] : [508,248] 
+Pedestrian detected [x,y] : [315,234] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [581,199] 
+Pedestrian detected [x,y] : [128,184] 
+Pedestrian detected [x,y] : [441,206] 
+Pedestrian detected [x,y] : [511,245] 
+Pedestrian detected [x,y] : [317,222] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [580,197] 
+Pedestrian detected [x,y] : [408,206] 
+Pedestrian detected [x,y] : [446,208] 
+Pedestrian detected [x,y] : [517,246] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [578,196] 
+Pedestrian detected [x,y] : [446,208] 
+Pedestrian detected [x,y] : [520,247] 
+Pedestrian detected [x,y] : [324,220] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [414,203] 
+Pedestrian detected [x,y] : [577,198] 
+Pedestrian detected [x,y] : [450,208] 
+Pedestrian detected [x,y] : [526,249] 
+Pedestrian detected [x,y] : [328,217] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [417,201] 
+Pedestrian detected [x,y] : [450,208] 
+Pedestrian detected [x,y] : [534,246] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [418,199] 
+Pedestrian detected [x,y] : [537,242] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [420,200] 
+Pedestrian detected [x,y] : [460,208] 
+Pedestrian detected [x,y] : [544,245] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [168,202] 
+Pedestrian detected [x,y] : [424,201] 
+Pedestrian detected [x,y] : [461,210] 
+Pedestrian detected [x,y] : [550,242] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [311,194] 
+Pedestrian detected [x,y] : [428,202] 
+Pedestrian detected [x,y] : [168,203] 
+Pedestrian detected [x,y] : [463,208] 
+Pedestrian detected [x,y] : [552,243] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [166,202] 
+Pedestrian detected [x,y] : [466,208] 
+Pedestrian detected [x,y] : [427,202] 
+Pedestrian detected [x,y] : [554,245] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [468,206] 
+Pedestrian detected [x,y] : [320,198] 
+Pedestrian detected [x,y] : [165,202] 
+Pedestrian detected [x,y] : [555,246] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [204,200] 
+Pedestrian detected [x,y] : [470,207] 
+Pedestrian detected [x,y] : [430,202] 
+Pedestrian detected [x,y] : [564,247] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [203,201] 
+Pedestrian detected [x,y] : [439,196] 
+Pedestrian detected [x,y] : [472,205] 
+Pedestrian detected [x,y] : [569,245] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [160,202] 
+Pedestrian detected [x,y] : [434,204] 
+Pedestrian detected [x,y] : [473,204] 
+Pedestrian detected [x,y] : [573,242] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [156,203] 
+Pedestrian detected [x,y] : [72,202] 
+Pedestrian detected [x,y] : [473,204] 
+Pedestrian detected [x,y] : [574,245] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [156,206] 
+Pedestrian detected [x,y] : [440,206] 
+Pedestrian detected [x,y] : [479,208] 
+Pedestrian detected [x,y] : [577,243] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [156,204] 
+Pedestrian detected [x,y] : [319,196] 
+Pedestrian detected [x,y] : [552,201] 
+Pedestrian detected [x,y] : [480,207] 
+Pedestrian detected [x,y] : [440,206] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [320,196] 
+Pedestrian detected [x,y] : [548,198] 
+Pedestrian detected [x,y] : [156,203] 
+Pedestrian detected [x,y] : [480,207] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [319,196] 
+Pedestrian detected [x,y] : [546,198] 
+Pedestrian detected [x,y] : [154,203] 
+Pedestrian detected [x,y] : [220,198] 
+Pedestrian detected [x,y] : [484,207] 
+Pedestrian detected [x,y] : [406,248] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [220,198] 
+Pedestrian detected [x,y] : [544,198] 
+Pedestrian detected [x,y] : [153,203] 
+Pedestrian detected [x,y] : [486,206] 
+Pedestrian detected [x,y] : [440,220] 
+Pedestrian detected [x,y] : [590,307] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [543,198] 
+Pedestrian detected [x,y] : [439,293] 
+Pedestrian detected [x,y] : [490,210] 
+Pedestrian detected [x,y] : [592,308] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [538,201] 
+Pedestrian detected [x,y] : [148,202] 
+Pedestrian detected [x,y] : [494,211] 
+Pedestrian detected [x,y] : [404,256] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [538,196] 
+Pedestrian detected [x,y] : [146,204] 
+Pedestrian detected [x,y] : [494,210] 
+Pedestrian detected [x,y] : [448,226] 
+Pedestrian detected [x,y] : [404,256] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [498,208] 
+Pedestrian detected [x,y] : [411,242] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [388,196] 
+Pedestrian detected [x,y] : [501,209] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [390,198] 
+Pedestrian detected [x,y] : [502,208] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [389,205] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [304,200] 
+Pedestrian detected [x,y] : [210,200] 
+Pedestrian detected [x,y] : [127,192] 
+Pedestrian detected [x,y] : [425,259] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [302,198] 
+Pedestrian detected [x,y] : [396,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [302,198] 
+Pedestrian detected [x,y] : [398,202] 
+Pedestrian detected [x,y] : [120,190] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [301,198] 
+Pedestrian detected [x,y] : [402,203] 
+Pedestrian detected [x,y] : [116,190] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [300,198] 
+Pedestrian detected [x,y] : [404,200] 
+Pedestrian detected [x,y] : [108,211] 
+Pedestrian detected [x,y] : [494,258] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [299,198] 
+Pedestrian detected [x,y] : [408,202] 
+Pedestrian detected [x,y] : [270,204] 
+Pedestrian detected [x,y] : [106,212] 
+Pedestrian detected [x,y] : [123,193] 
+Pedestrian detected [x,y] : [500,256] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [300,198] 
+Pedestrian detected [x,y] : [410,200] 
+Pedestrian detected [x,y] : [266,203] 
+Pedestrian detected [x,y] : [106,210] 
+Pedestrian detected [x,y] : [487,260] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [298,198] 
+Pedestrian detected [x,y] : [266,203] 
+Pedestrian detected [x,y] : [126,193] 
+Pedestrian detected [x,y] : [504,264] 
+Pedestrian detected [x,y] : [440,260] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [298,196] 
+Pedestrian detected [x,y] : [418,200] 
+Pedestrian detected [x,y] : [122,202] 
+Pedestrian detected [x,y] : [266,203] 
+Pedestrian detected [x,y] : [508,261] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [298,196] 
+Pedestrian detected [x,y] : [420,202] 
+Pedestrian detected [x,y] : [266,202] 
+Pedestrian detected [x,y] : [121,190] 
+Pedestrian detected [x,y] : [510,252] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [294,197] 
+Pedestrian detected [x,y] : [423,202] 
+Pedestrian detected [x,y] : [264,204] 
+Pedestrian detected [x,y] : [116,192] 
+Pedestrian detected [x,y] : [512,261] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [292,196] 
+Pedestrian detected [x,y] : [423,202] 
+Pedestrian detected [x,y] : [264,202] 
+Pedestrian detected [x,y] : [116,194] 
+Pedestrian detected [x,y] : [517,254] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [260,202] 
+Pedestrian detected [x,y] : [112,190] 
+Pedestrian detected [x,y] : [522,252] 
+Pedestrian detected [x,y] : [458,260] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [289,200] 
+Pedestrian detected [x,y] : [100,210] 
+Pedestrian detected [x,y] : [456,261] 
+Pedestrian detected [x,y] : [522,267] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [288,200] 
+Pedestrian detected [x,y] : [258,203] 
+Pedestrian detected [x,y] : [526,255] 
+Pedestrian detected [x,y] : [460,260] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [256,202] 
+Pedestrian detected [x,y] : [288,198] 
+Pedestrian detected [x,y] : [112,209] 
+Pedestrian detected [x,y] : [463,259] 
+Pedestrian detected [x,y] : [529,257] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [105,206] 
+Pedestrian detected [x,y] : [256,202] 
+Pedestrian detected [x,y] : [287,200] 
+Pedestrian detected [x,y] : [464,261] 
+Pedestrian detected [x,y] : [532,259] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [109,206] 
+Pedestrian detected [x,y] : [256,202] 
+Pedestrian detected [x,y] : [81,208] 
+Pedestrian detected [x,y] : [466,262] 
+Pedestrian detected [x,y] : [532,259] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [106,206] 
+Pedestrian detected [x,y] : [255,202] 
+Pedestrian detected [x,y] : [464,261] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [100,206] 
+Pedestrian detected [x,y] : [255,202] 
+Pedestrian detected [x,y] : [466,262] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [102,209] 
+Pedestrian detected [x,y] : [250,203] 
+Pedestrian detected [x,y] : [542,246] 
+Pedestrian detected [x,y] : [466,261] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [248,207] 
+Pedestrian detected [x,y] : [96,191] 
+Pedestrian detected [x,y] : [545,253] 
+Pedestrian detected [x,y] : [465,262] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [248,202] 
+Pedestrian detected [x,y] : [97,208] 
+Pedestrian detected [x,y] : [548,258] 
+Pedestrian detected [x,y] : [465,263] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [94,207] 
+Pedestrian detected [x,y] : [250,203] 
+Pedestrian detected [x,y] : [552,256] 
+Pedestrian detected [x,y] : [464,263] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [247,202] 
+Pedestrian detected [x,y] : [552,258] 
+Pedestrian detected [x,y] : [463,265] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [247,202] 
+Pedestrian detected [x,y] : [90,212] 
+Pedestrian detected [x,y] : [556,264] 
+Pedestrian detected [x,y] : [466,265] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [244,203] 
+Pedestrian detected [x,y] : [556,260] 
+Pedestrian detected [x,y] : [464,266] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [244,202] 
+Pedestrian detected [x,y] : [556,260] 
+Pedestrian detected [x,y] : [464,269] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [241,202] 
+Pedestrian detected [x,y] : [556,260] 
+Pedestrian detected [x,y] : [464,268] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [74,209] 
+Pedestrian detected [x,y] : [240,202] 
+Pedestrian detected [x,y] : [260,176] 
+Pedestrian detected [x,y] : [556,260] 
+Pedestrian detected [x,y] : [464,266] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [240,202] 
+Pedestrian detected [x,y] : [260,174] 
+Pedestrian detected [x,y] : [81,187] 
+Pedestrian detected [x,y] : [557,260] 
+Pedestrian detected [x,y] : [466,265] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [70,208] 
+Pedestrian detected [x,y] : [238,203] 
+Pedestrian detected [x,y] : [417,220] 
+Pedestrian detected [x,y] : [260,176] 
+Pedestrian detected [x,y] : [554,260] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [68,209] 
+Pedestrian detected [x,y] : [237,203] 
+Pedestrian detected [x,y] : [416,220] 
+Pedestrian detected [x,y] : [260,174] 
+Pedestrian detected [x,y] : [554,258] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [482,193] 
+Pedestrian detected [x,y] : [68,208] 
+Pedestrian detected [x,y] : [235,203] 
+Pedestrian detected [x,y] : [418,222] 
+Pedestrian detected [x,y] : [16,234] 
+Pedestrian detected [x,y] : [552,256] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [76,204] 
+Pedestrian detected [x,y] : [234,202] 
+Pedestrian detected [x,y] : [418,222] 
+Pedestrian detected [x,y] : [52,213] 
+Pedestrian detected [x,y] : [549,256] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [62,209] 
+Pedestrian detected [x,y] : [234,202] 
+Pedestrian detected [x,y] : [416,220] 
+Pedestrian detected [x,y] : [549,256] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [232,202] 
+Pedestrian detected [x,y] : [591,211] 
+Pedestrian detected [x,y] : [437,266] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [232,202] 
+Pedestrian detected [x,y] : [494,209] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [496,204] 
+Pedestrian detected [x,y] : [67,208] 
+Pedestrian detected [x,y] : [232,202] 
+Pedestrian detected [x,y] : [570,200] 
+Pedestrian detected [x,y] : [418,227] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [502,199] 
+Pedestrian detected [x,y] : [230,202] 
+Pedestrian detected [x,y] : [572,206] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [502,194] 
+Pedestrian detected [x,y] : [58,209] 
+Pedestrian detected [x,y] : [230,202] 
+Pedestrian detected [x,y] : [572,295] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [58,208] 
+Pedestrian detected [x,y] : [571,291] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [59,208] 
+Pedestrian detected [x,y] : [442,204] 
+Pedestrian detected [x,y] : [506,294] 
+Pedestrian detected [x,y] : [254,204] 
+Pedestrian detected [x,y] : [580,211] 
+Pedestrian detected [x,y] : [572,290] 
+Number of people in the frame: 6
+
+Pedestrian detected [x,y] : [50,210] 
+Pedestrian detected [x,y] : [440,203] 
+Pedestrian detected [x,y] : [403,212] 
+Pedestrian detected [x,y] : [254,204] 
+Pedestrian detected [x,y] : [583,208] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [50,210] 
+Pedestrian detected [x,y] : [438,203] 
+Pedestrian detected [x,y] : [224,202] 
+Pedestrian detected [x,y] : [251,202] 
+Pedestrian detected [x,y] : [587,208] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [592,206] 
+Pedestrian detected [x,y] : [50,210] 
+Pedestrian detected [x,y] : [438,207] 
+Pedestrian detected [x,y] : [223,202] 
+Pedestrian detected [x,y] : [251,202] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [50,210] 
+Pedestrian detected [x,y] : [223,202] 
+Pedestrian detected [x,y] : [435,203] 
+Pedestrian detected [x,y] : [251,202] 
+Pedestrian detected [x,y] : [513,250] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [526,195] 
+Pedestrian detected [x,y] : [52,210] 
+Pedestrian detected [x,y] : [222,202] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [528,200] 
+Pedestrian detected [x,y] : [47,212] 
+Pedestrian detected [x,y] : [220,202] 
+Pedestrian detected [x,y] : [596,212] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [531,204] 
+Pedestrian detected [x,y] : [46,210] 
+Pedestrian detected [x,y] : [428,202] 
+Pedestrian detected [x,y] : [598,210] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [534,200] 
+Pedestrian detected [x,y] : [426,203] 
+Pedestrian detected [x,y] : [46,211] 
+Pedestrian detected [x,y] : [600,210] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [536,201] 
+Pedestrian detected [x,y] : [45,208] 
+Pedestrian detected [x,y] : [425,199] 
+Pedestrian detected [x,y] : [602,208] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [538,201] 
+Pedestrian detected [x,y] : [41,210] 
+Pedestrian detected [x,y] : [427,196] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [426,196] 
+Pedestrian detected [x,y] : [38,210] 
+Pedestrian detected [x,y] : [603,213] 
+Pedestrian detected [x,y] : [541,201] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [547,200] 
+Pedestrian detected [x,y] : [38,210] 
+Pedestrian detected [x,y] : [604,212] 
+Pedestrian detected [x,y] : [423,194] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [549,202] 
+Pedestrian detected [x,y] : [34,210] 
+Pedestrian detected [x,y] : [607,210] 
+Pedestrian detected [x,y] : [419,194] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [554,203] 
+Pedestrian detected [x,y] : [32,209] 
+Pedestrian detected [x,y] : [609,207] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [556,203] 
+Pedestrian detected [x,y] : [30,210] 
+Pedestrian detected [x,y] : [609,208] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [29,212] 
+Pedestrian detected [x,y] : [558,202] 
+Pedestrian detected [x,y] : [612,210] 
+Pedestrian detected [x,y] : [370,232] 
+Pedestrian detected [x,y] : [130,186] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [30,210] 
+Pedestrian detected [x,y] : [615,210] 
+Pedestrian detected [x,y] : [562,203] 
+Pedestrian detected [x,y] : [128,183] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [564,200] 
+Pedestrian detected [x,y] : [18,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [416,276] 
+Pedestrian detected [x,y] : [566,201] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [571,201] 
+Pedestrian detected [x,y] : [414,280] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [572,211] 
+Pedestrian detected [x,y] : [204,202] 
+Pedestrian detected [x,y] : [408,284] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [202,202] 
+Pedestrian detected [x,y] : [574,207] 
+Pedestrian detected [x,y] : [392,249] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [578,208] 
+Pedestrian detected [x,y] : [392,246] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [116,184] 
+Pedestrian detected [x,y] : [579,210] 
+Pedestrian detected [x,y] : [385,248] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [194,215] 
+Pedestrian detected [x,y] : [116,184] 
+Pedestrian detected [x,y] : [585,210] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [395,202] 
+Pedestrian detected [x,y] : [198,210] 
+Pedestrian detected [x,y] : [20,214] 
+Pedestrian detected [x,y] : [588,210] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [195,206] 
+Pedestrian detected [x,y] : [20,211] 
+Pedestrian detected [x,y] : [592,209] 
+Pedestrian detected [x,y] : [122,184] 
+Number of people in the frame: 4
+
+Pedestrian detected [x,y] : [390,203] 
+Pedestrian detected [x,y] : [20,215] 
+Pedestrian detected [x,y] : [194,208] 
+Pedestrian detected [x,y] : [126,184] 
+Pedestrian detected [x,y] : [594,210] 
+Number of people in the frame: 5
+
+Pedestrian detected [x,y] : [391,202] 
+Pedestrian detected [x,y] : [194,209] 
+Pedestrian detected [x,y] : [126,185] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [392,201] 
+Pedestrian detected [x,y] : [194,212] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [389,201] 
+Pedestrian detected [x,y] : [194,215] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [390,200] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [388,203] 
+Pedestrian detected [x,y] : [607,210] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [24,232] 
+Pedestrian detected [x,y] : [387,202] 
+Pedestrian detected [x,y] : [608,208] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [608,212] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [382,202] 
+Pedestrian detected [x,y] : [611,196] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [381,203] 
+Pedestrian detected [x,y] : [610,204] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [380,202] 
+Pedestrian detected [x,y] : [610,210] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [379,203] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [379,203] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [375,202] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [371,203] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [370,203] 
+Pedestrian detected [x,y] : [260,242] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [370,203] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [366,205] 
+Pedestrian detected [x,y] : [248,227] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [365,202] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [364,203] 
+Pedestrian detected [x,y] : [20,232] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [364,203] 
+Pedestrian detected [x,y] : [19,230] 
+Pedestrian detected [x,y] : [227,246] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [362,203] 
+Pedestrian detected [x,y] : [19,230] 
+Pedestrian detected [x,y] : [222,244] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [19,230] 
+Pedestrian detected [x,y] : [361,202] 
+Pedestrian detected [x,y] : [218,244] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [18,232] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [354,202] 
+Pedestrian detected [x,y] : [18,230] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [352,203] 
+Pedestrian detected [x,y] : [19,231] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,230] 
+Pedestrian detected [x,y] : [353,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,230] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [352,200] 
+Pedestrian detected [x,y] : [18,229] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,230] 
+Pedestrian detected [x,y] : [348,200] 
+Pedestrian detected [x,y] : [200,204] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [200,204] 
+Pedestrian detected [x,y] : [345,202] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [344,203] 
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [110,296] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [344,203] 
+Pedestrian detected [x,y] : [18,229] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [344,201] 
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [100,288] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [341,206] 
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [98,286] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [340,202] 
+Pedestrian detected [x,y] : [94,288] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [88,286] 
+Pedestrian detected [x,y] : [338,202] 
+Number of people in the frame: 3
+
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [83,288] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,229] 
+Pedestrian detected [x,y] : [336,202] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [336,202] 
+Pedestrian detected [x,y] : [18,229] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,230] 
+Pedestrian detected [x,y] : [333,200] 
+Number of people in the frame: 2
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [109,284] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [334,198] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [330,198] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [327,196] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [328,196] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [328,196] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [328,196] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [328,194] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [324,194] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [326,194] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [324,194] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [322,196] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [326,192] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [49,249] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [314,198] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [312,198] 
+Pedestrian detected [x,y] : [36,254] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [311,196] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [312,198] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [312,198] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [312,198] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [311,197] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [311,197] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [312,200] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [146,186] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [146,186] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [145,186] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [145,186] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [143,186] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [142,186] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [123,184] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [123,184] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [123,184] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [16,234] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [118,184] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [114,184] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [112,182] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [110,184] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [110,184] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [110,184] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [16,230] 
+Pedestrian detected [x,y] : [110,184] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [110,184] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [97,185] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [562,144] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [562,142] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [607,140] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [607,140] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [607,140] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [607,140] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [563,128] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [266,160] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [562,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [96,193] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [561,136] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [562,140] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [562,140] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,137] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [16,240] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [16,240] 
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 2
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [22,256] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,140] 
+Pedestrian detected [x,y] : [21,255] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Pedestrian detected [x,y] : [18,242] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [564,138] 
+Pedestrian detected [x,y] : [18,238] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,240] 
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [564,138] 
+Pedestrian detected [x,y] : [18,240] 
+Number of people in the frame: 2
+
+Pedestrian detected [x,y] : [18,238] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [16,239] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [16,239] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [18,234] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [18,234] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [18,230] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [18,230] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [18,234] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [18,234] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [19,250] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [563,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [270,147] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [266,150] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [266,152] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [16,202] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [20,254] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [614,227] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [613,227] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [613,227] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [613,227] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [613,227] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,132] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [613,218] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [562,132] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,134] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [562,142] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,143] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,138] 
+Number of people in the frame: 1
+
+Pedestrian detected [x,y] : [564,136] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Pedestrian detected [x,y] : [564,136] 
+Number of people in the frame: 1
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
+Number of people in the frame: 0
+
