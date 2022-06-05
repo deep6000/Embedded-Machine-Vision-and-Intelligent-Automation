@@ -1,0 +1,13 @@
+name: Test Suite
+on: push
+jobs:
+  test:
+    runs-on: buildjet-8vcpu-ubuntu-2004
+    name: Test
+    steps:
+      - uses: actions/checkout@v2
+  build:
+    runs-on: buildjet-64vcpu-ubuntu-2004
+    name: Build
+    steps:
+      - uses: actions/checkout@v2
